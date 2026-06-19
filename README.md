@@ -25,6 +25,6 @@ To secure product delivery and prevent user interface regressions, end-to-end (E
 * **Management:** Jira | ClickUp | Scrum Sprints
 
 ## 📬 Contact & Portfolio
-* **LinkedIn:** [linkedin.com/in/iandra-morais] (https://www.linkedin.com/in/iandra-morais/)
-* **Live Product View:** (bigwaveautomacaodigital.com) [https://bigwaveautomacaodigital.com/]
+* **LinkedIn:** [linkedin.com/in/iandra-morais](https://www.linkedin.com/in/iandra-morais/)
+* **Live Product View:** (bigwaveautomacaodigital.com)[https://bigwaveautomacaodigital.com/]
 * **Email**: [iandramorais.gaia@gmail.com]
