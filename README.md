@@ -26,5 +26,5 @@ To secure product delivery and prevent user interface regressions, end-to-end (E
 
 ## 📬 Contact & Portfolio
 * **LinkedIn:** [linkedin.com/in/iandra-morais](https://www.linkedin.com/in/iandra-morais/)
-* **Live Product View:** (bigwaveautomacaodigital.com)[https://bigwaveautomacaodigital.com/]
+* **Live Product View:** [bigwaveautomacaodigital.com](https://bigwaveautomacaodigital.com/)
 * **Email**: [iandramorais.gaia@gmail.com]
